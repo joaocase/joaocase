@@ -1,7 +1,7 @@
 # João Casé
 ## 🧑‍💻 About me
 Undergraduate student at UFRPE, majoring in Information Systems.
-I was still in high school when I was first introduced to the world of coding by my cousins. My first programming language was **Python**, and since then I've worked with **Java**, **JavaScript**, **Flask**, **React**, and **PostgreSQL**.
+I was still in high school when I was first introduced to the world of coding by my cousins. My first programming language was **Python**, and since then I've worked with **Java**.
 
 I'm deeply passionate about technology — ever since I got my first video game, a PlayStation 2, as a kid.
 
